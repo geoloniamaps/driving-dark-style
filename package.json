@@ -1,7 +1,7 @@
 {
-  "name": "driving-style",
+  "name": "driving-dark-style",
   "version": "1.0.0",
-  "description": "自動車走行時に見やすい地図スタイル (Driving-friendly map style)",
+  "description": "自動車走行時に見やすい地図スタイル・ダークモード (Driving-friendly map style - Dark mode)",
   "main": "style.json",
   "scripts": {
     "start": "charites serve style.yml",

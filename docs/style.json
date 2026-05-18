@@ -1,6 +1,6 @@
 {
   "version": 8,
-  "name": "Driving Style (ドライブの地図)",
+  "name": "Driving Dark Style (ドライブの地図・ダーク)",
   "sources": {
     "geolonia": {
       "type": "vector",
