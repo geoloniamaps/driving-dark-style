@@ -1,0 +1,12 @@
+id: landcover-wood
+type: fill
+source: geolonia
+source-layer: landcover
+minzoom: 11
+filter:
+  - ==
+  - class
+  - wood
+paint:
+  fill-color: '#142418'
+  fill-opacity: 0.5
